@@ -1,0 +1,6 @@
+galaxy_info:
+  author: Muhammad Taqi
+  description: Install PHP composer
+  min_ansible_version: 2
+
+dependencies: []
